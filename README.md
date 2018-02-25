@@ -1,0 +1,1 @@
+An exploration of suicides in America via Data published by CDC and multiple other sources.
